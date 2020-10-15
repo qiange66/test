@@ -1,18 +1,1 @@
-<<<<<<< HEAD
-Git is a version control system.
-Git is free software.
-
-4
-
-888
-
-dev分支
-
-
-main提交  bug修复
-
-上产环境紧急bug修复
-
-=======
-dev
->>>>>>> dev
+正式环境修复bug

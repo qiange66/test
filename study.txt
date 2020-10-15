@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Git is a version control system.
 Git is free software.
 
@@ -12,3 +13,6 @@ main提交  bug修复
 
 上产环境紧急bug修复
 
+=======
+dev
+>>>>>>> dev
